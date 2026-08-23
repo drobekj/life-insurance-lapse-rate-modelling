@@ -1,0 +1,6 @@
+predictor,level,reference_level,rate_relativity
+DURATION,10,6-9,8.69
+DURATION,11,6-9,5.75
+DURATION,12,6-9,2.48
+DURATION,13+,6-9,1.77
+POST_LEVEL_PREMIUM_STRUCTURE,Premium Jump to Other,Premium Jump to ART,0.56
