@@ -1,0 +1,6 @@
+Metric,Value
+Actual lapse rate,0.14630165864632289
+GLM predicted rate,0.1411337418096097
+Baseline rate,0.11473033688757667
+Actual / Predicted,1.0366171602229943
+Calibration error (p.p.),0.5167916836713193
