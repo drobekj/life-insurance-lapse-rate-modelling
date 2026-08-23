@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width="496.48pt" height="315.03pt" version="1.1" viewBox="0 0 496.48 315.03" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="m0 315.03h496.48v-315.03h-496.48z" fill="#fff"/>
+<path d="m50.105 277.48h439.18v-255.16h-439.18z" fill="#fff"/>
+<path d="m70.067 277.48h66.542v-27.76h-66.542z" clip-path="url(#b)" fill="#1f77b4"/>
+<path d="m153.25 277.48h66.542v-243.01h-66.542z" clip-path="url(#b)" fill="#1f77b4"/>
+<path d="m236.42 277.48h66.542v-123.5h-66.542z" clip-path="url(#b)" fill="#1f77b4"/>
+<path d="m319.6 277.48h66.542v-46.886h-66.542z" clip-path="url(#b)" fill="#1f77b4"/>
+<path d="m402.78 277.48h66.542v-29.216h-66.542z" clip-path="url(#b)" fill="#1f77b4"/>
+<defs><path id="c" d="m0 0v3.5" stroke="#000" stroke-width=".8"/></defs>
+<use x="103.338627" y="277.478125" stroke="#000000" stroke-width=".8" xlink:href="#c"/><text x="103.338627" y="292.076563" font-family="DejaVu Sans,Arial,sans-serif" font-size="10px" text-anchor="middle">6-9</text>
+<use x="186.516657" y="277.478125" stroke="#000000" stroke-width=".8" xlink:href="#c"/><text x="186.516657" y="292.076563" font-family="DejaVu Sans,Arial,sans-serif" font-size="10px" text-anchor="middle">10</text>
+<use x="269.694687" y="277.478125" stroke="#000000" stroke-width=".8" xlink:href="#c"/><text x="269.694687" y="292.076563" font-family="DejaVu Sans,Arial,sans-serif" font-size="10px" text-anchor="middle">11</text>
+<use x="352.872718" y="277.478125" stroke="#000000" stroke-width=".8" xlink:href="#c"/><text x="352.872718" y="292.076563" font-family="DejaVu Sans,Arial,sans-serif" font-size="10px" text-anchor="middle">12</text>
+<use x="436.050748" y="277.478125" stroke="#000000" stroke-width=".8" xlink:href="#c"/><text x="436.050748" y="292.076563" font-family="DejaVu Sans,Arial,sans-serif" font-size="10px" text-anchor="middle">13+</text>
+<text x="269.694687" y="305.754687" font-family="DejaVu Sans,Arial,sans-serif" font-size="10px" text-anchor="middle">Duration</text>
+<defs><path id="a" d="m0 0h-3.5" stroke="#000" stroke-width=".8"/></defs>
+<use x="50.104688" y="277.478125" stroke="#000" stroke-width=".8" xlink:href="#a"/><text x="43.104688" y="281.277344" font-family="DejaVu Sans,Arial,sans-serif" font-size="10px" text-anchor="end">0%</text>
+<use x="50.104688" y="235.763332" stroke="#000" stroke-width=".8" xlink:href="#a"/><text x="43.104688" y="239.562551" font-family="DejaVu Sans,Arial,sans-serif" font-size="10px" text-anchor="end">10%</text>
+<use x="50.104688" y="194.04854" stroke="#000" stroke-width=".8" xlink:href="#a"/><text x="43.104688" y="197.847759" font-family="DejaVu Sans,Arial,sans-serif" font-size="10px" text-anchor="end">20%</text>
+<use x="50.104688" y="152.333747" stroke="#000" stroke-width=".8" xlink:href="#a"/><text x="43.104688" y="156.132966" font-family="DejaVu Sans,Arial,sans-serif" font-size="10px" text-anchor="end">30%</text>
+<use x="50.104688" y="110.618955" stroke="#000" stroke-width=".8" xlink:href="#a"/><text x="43.104688" y="114.418174" font-family="DejaVu Sans,Arial,sans-serif" font-size="10px" text-anchor="end">40%</text>
+<use x="50.104688" y="68.904162" stroke="#000" stroke-width=".8" xlink:href="#a"/><text x="43.104688" y="72.703381" font-family="DejaVu Sans,Arial,sans-serif" font-size="10px" text-anchor="end">50%</text>
+<use x="50.104688" y="27.18937" stroke="#000" stroke-width=".8" xlink:href="#a"/><text x="43.104688" y="30.988589" font-family="DejaVu Sans,Arial,sans-serif" font-size="10px" text-anchor="end">60%</text>
+<text transform="rotate(-90 14.798 149.9)" x="14.798438" y="149.898125" font-family="DejaVu Sans,Arial,sans-serif" font-size="10px" text-anchor="middle">Lapse rate</text>
+<path d="m50.105 277.48v-255.16m439.18 255.16v-255.16m-439.18 255.16h439.18m-439.18-255.16h439.18" fill="none" stroke="#000" stroke-width=".8"/>
+<text x="269.694687" y="16.318125" font-family="DejaVu Sans,Arial,sans-serif" font-size="12px" text-anchor="middle">Lapse rate by policy duration</text>
+<defs><clipPath id="b"><rect x="50.105" y="22.318" width="439.18" height="255.16"/></clipPath></defs>
+</svg>

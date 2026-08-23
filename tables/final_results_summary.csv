@@ -1,6 +1,0 @@
-Metric,Temporal validation,Final holdout 2011-2012
-GLM Poisson deviance,1.246541,1.106248136076996
-Baseline Poisson deviance,4.210390,5.370037230058384
-Improvement vs baseline,0.666725,0.7939961887256843
-Actual / Predicted,1.0366171602229943,1.0629518555819883
-Calibration error (p.p.),0.5167916836713193,1.262925123965808

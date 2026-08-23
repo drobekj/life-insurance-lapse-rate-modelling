@@ -1,8 +1,0 @@
-Metric,Value
-Baseline Poisson deviance,5.370037230058384
-GLM Poisson deviance,1.106248136076996
-Improvement vs baseline,0.7939961887256843
-Actual lapse rate,0.21324686803428597
-GLM predicted rate,0.2006176167946279
-Actual / Predicted,1.0629518555819883
-Calibration error (p.p.),1.262925123965808
