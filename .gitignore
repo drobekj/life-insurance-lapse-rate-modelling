@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Source data is intentionally not versioned
+soa_post_level_term_lapse.csv
+data/*.csv
+!data/README.md
+
+# Local generated exports
+portfolio_outputs/
